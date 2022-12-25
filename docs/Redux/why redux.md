@@ -1,5 +1,5 @@
 ---
-sidebar_position: 7
+title: why redux
 ---
 
 # 為什麼需要 Redux ?
@@ -14,6 +14,3 @@ sidebar_position: 7
 
 - redux 有自己的 state
 - 透過 React component (trigger)發 dispatch action 出去給 Reducer 執行, 更新 store 的 state
-
-![Redux-Diagram](./redux-diagram.png)
-_來源: 稀土掘金_

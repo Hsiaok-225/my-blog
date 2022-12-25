@@ -1,8 +1,8 @@
 ---
-sidebar_position: 7
+title: event delegation
 ---
 
-# Event Delegation 事件代理
+# event delegation 事件代理
 
 先看看以下的例子
 
