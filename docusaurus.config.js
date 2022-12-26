@@ -40,7 +40,8 @@ const config = {
           // editUrl:
         },
         blog: {
-          showReadingTime: true,
+          // blog: false,
+          // showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl:
@@ -69,7 +70,7 @@ const config = {
             position: "left",
             label: "Docs",
           },
-          { to: "blog", label: "Blog", position: "left" }, // 點左上Blog的連結
+          // { to: "blog", label: "Blog", position: "left" }, // 點左上Blog的連結
           {
             href: "https://github.com/Hsiaok-225",
             label: "GitHub",
